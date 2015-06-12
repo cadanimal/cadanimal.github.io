@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Blog Title</title>
+    <description>Blog Title</description>
+    <link>http://sample.com</link>
+    <pubDate>Fri, 12 Jun 2015 02:15:18 -0300</pubDate>
+  </channel>
+</rss>
